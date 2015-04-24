@@ -5,7 +5,7 @@ Machinarium Saver
 
 My flash data files are removed after each execution of Flash Player.
 Because Machinarium runs on flash and stores its data to a flash local shared object (.sol), the save file is also removed.
-Instead of starting over anytime I play Machinarium, I use thse scripts.
+Instead of restarting, anytime I play Machinarium, I use these scripts.
 
 There is an alternative solution, which might be easier in your case:
 http://forum.amanita-design.net/index.php?topic=809.0
