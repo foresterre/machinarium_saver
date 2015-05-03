@@ -19,13 +19,14 @@ http://forum.amanita-design.net/index.php?topic=1274.0
 ##### Requirements
 * Powershell & Windows
 
-* Powershell script execution rights
-If you want to set these, be sure you know the consequences.
+* Powershell script execution rights <br>
+If you want to set these rights, be sure you know the consequences.<br>
+[Click here for more information](https://technet.microsoft.com/en-us/library/ee176961.aspx)<br><br>
 Execute in powershell with Administrator rights:
 <pre>Set-ExecutionPolicy RemoteSigned</pre>
-(Click here for more information...)[https://technet.microsoft.com/en-us/library/ee176961.aspx]
 
-* Change the designation folder settings in both scripts, if you don't want to use the default setting ($<user>/Desktop/MachinariumSave/saves)
+
+* Change the destination folder settings in both scripts, if you don't want to use the default setting ($<user>/Desktop/MachinariumSave/saves)
 
 ##### How to ...
 For my convenience I usually play in windowed mode. 
