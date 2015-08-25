@@ -84,7 +84,7 @@ Write-Host "--------------------------------------------------------------------
 
 
 # Set the savefile back
-If ($saveFileFullExists -eq $True) {
+if ($saveFileFullExists -eq $True) {
     
     if ($mapLocationExists -ne $True) {
         Write-Host "ERROR Unable to find the location of the Machinarium save location"
