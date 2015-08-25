@@ -64,7 +64,7 @@ Write-Host "--------------------------------------------------------------------
 
 
 # Save file to folder
-If ($locExists -eq $True) {
+if ($locExists -eq $True) {
     Write-Host "Machinarium location exists"
     
     if ($destExists -ne $True) {
